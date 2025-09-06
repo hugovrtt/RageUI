@@ -1,0 +1,4 @@
+RageUI.BadgeLabel = {
+    ArrowRight = "→",
+    ArrowLeft = "←",
+}
